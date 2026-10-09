@@ -1,0 +1,15 @@
+*.uvguix.*
+*.uvoptx
+*.axf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.lst
+*.map
+Objects/
+Listings/
+RTE/
+*.zip
+*.rar
